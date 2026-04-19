@@ -1,0 +1,10 @@
+{
+  "name": "IronFit Gym",
+  "timings": "6 AM - 10 PM",
+  "location": "Kolkata",
+  "pricing": "1500/month",
+  "faq": [
+    {"q": "Do you have trainers?", "a": "Yes, certified trainers available."},
+    {"q": "Do you offer trial?", "a": "Yes, 1-day free trial."}
+  ]
+}

@@ -1,0 +1,112 @@
+2026-04-19 20:25:06,402 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-19 20:25:06,403 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-19 20:25:06,405 - INFO -  * Restarting with stat
+2026-04-19 20:25:08,566 - WARNING -  * Debugger is active!
+2026-04-19 20:25:08,569 - INFO -  * Debugger PIN: 124-071-146
+2026-04-19 21:00:39,385 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-19 21:00:39,385 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-19 21:00:39,388 - INFO -  * Restarting with stat
+2026-04-19 21:00:40,730 - WARNING -  * Debugger is active!
+2026-04-19 21:00:40,735 - INFO -  * Debugger PIN: 124-071-146
+2026-04-19 21:06:25,123 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-19 21:06:25,123 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-19 21:06:25,126 - INFO -  * Restarting with stat
+2026-04-19 21:06:26,355 - WARNING -  * Debugger is active!
+2026-04-19 21:06:26,357 - INFO -  * Debugger PIN: 124-071-146
+2026-04-19 21:12:35,636 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-19 21:12:35,636 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-19 21:12:35,638 - INFO -  * Restarting with stat
+2026-04-19 21:12:36,809 - WARNING -  * Debugger is active!
+2026-04-19 21:12:36,811 - INFO -  * Debugger PIN: 124-071-146
+2026-04-19 21:12:54,461 - INFO - 127.0.0.1 - - [19/Apr/2026 21:12:54] "[31m[1mGET /whatsapp HTTP/1.1[0m" 405 -
+2026-04-19 21:12:55,251 - INFO - 127.0.0.1 - - [19/Apr/2026 21:12:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-19 21:14:54,873 - INFO - WhatsApp msg from whatsapp:+919330207443: hi.
+2026-04-19 21:14:55,246 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-04-19 21:14:55,261 - INFO - 127.0.0.1 - - [19/Apr/2026 21:14:55] "[35m[1mPOST /whatsapp HTTP/1.1[0m" 500 -
+2026-04-19 21:18:29,308 - INFO -  * Detected change in 'C:\\Users\\dell\\Desktop\\AI Work\\AI Chatbot\\backend\\services\\llm_service.py', reloading
+2026-04-19 21:18:29,493 - INFO -  * Restarting with stat
+2026-04-19 21:18:31,335 - WARNING -  * Debugger is active!
+2026-04-19 21:18:31,338 - INFO -  * Debugger PIN: 124-071-146
+2026-04-19 21:18:42,686 - INFO -  * Detected change in 'C:\\Users\\dell\\Desktop\\AI Work\\AI Chatbot\\backend\\services\\llm_service.py', reloading
+2026-04-19 21:18:42,813 - INFO -  * Restarting with stat
+2026-04-19 21:18:44,042 - WARNING -  * Debugger is active!
+2026-04-19 21:18:44,045 - INFO -  * Debugger PIN: 124-071-146
+2026-04-19 21:19:02,743 - INFO -  * Detected change in 'C:\\Users\\dell\\Desktop\\AI Work\\AI Chatbot\\backend\\services\\llm_service.py', reloading
+2026-04-19 21:19:02,872 - INFO -  * Restarting with stat
+2026-04-19 21:19:04,159 - WARNING -  * Debugger is active!
+2026-04-19 21:19:04,161 - INFO -  * Debugger PIN: 124-071-146
+2026-04-19 21:19:11,396 - INFO -  * Detected change in 'C:\\Users\\dell\\Desktop\\AI Work\\AI Chatbot\\backend\\services\\llm_service.py', reloading
+2026-04-19 21:19:11,530 - INFO -  * Restarting with stat
+2026-04-19 21:19:12,823 - WARNING -  * Debugger is active!
+2026-04-19 21:19:12,826 - INFO -  * Debugger PIN: 124-071-146
+2026-04-19 21:19:19,031 - INFO -  * Detected change in 'C:\\Users\\dell\\Desktop\\AI Work\\AI Chatbot\\backend\\services\\llm_service.py', reloading
+2026-04-19 21:19:19,127 - INFO -  * Restarting with stat
+2026-04-19 21:19:20,755 - WARNING -  * Debugger is active!
+2026-04-19 21:19:20,758 - INFO -  * Debugger PIN: 124-071-146
+2026-04-19 21:19:56,311 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-19 21:19:56,311 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-19 21:19:56,313 - INFO -  * Restarting with stat
+2026-04-19 21:19:57,491 - WARNING -  * Debugger is active!
+2026-04-19 21:19:57,493 - INFO -  * Debugger PIN: 124-071-146
+2026-04-19 21:20:23,785 - INFO - WhatsApp msg from whatsapp:+919330207443: hi.
+2026-04-19 21:20:24,248 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-19 21:20:24,268 - INFO - 127.0.0.1 - - [19/Apr/2026 21:20:24] "POST /whatsapp HTTP/1.1" 200 -
+2026-04-19 21:20:30,272 - INFO - WhatsApp msg from whatsapp:+919330207443: hi
+2026-04-19 21:20:30,593 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-19 21:20:30,594 - INFO - 127.0.0.1 - - [19/Apr/2026 21:20:30] "POST /whatsapp HTTP/1.1" 200 -
+2026-04-19 21:20:55,933 - INFO - WhatsApp msg from whatsapp:+919330207443: what other plans?
+2026-04-19 21:20:56,245 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-19 21:20:56,248 - INFO - 127.0.0.1 - - [19/Apr/2026 21:20:56] "POST /whatsapp HTTP/1.1" 200 -
+2026-04-19 21:22:06,179 - INFO -  * Detected change in 'C:\\Users\\dell\\Desktop\\AI Work\\AI Chatbot\\backend\\app.py', reloading
+2026-04-19 21:22:06,313 - INFO -  * Restarting with stat
+2026-04-19 21:22:07,654 - WARNING -  * Debugger is active!
+2026-04-19 21:22:07,657 - INFO -  * Debugger PIN: 124-071-146
+2026-04-19 21:22:09,758 - INFO -  * Detected change in 'C:\\Users\\dell\\Desktop\\AI Work\\AI Chatbot\\backend\\app.py', reloading
+2026-04-19 21:22:09,862 - INFO -  * Restarting with stat
+2026-04-19 21:22:11,271 - WARNING -  * Debugger is active!
+2026-04-19 21:22:11,273 - INFO -  * Debugger PIN: 124-071-146
+2026-04-19 21:22:23,289 - INFO - WhatsApp msg from whatsapp:+919330207443: amenities?
+2026-04-19 21:22:23,825 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-19 21:22:23,836 - INFO - 127.0.0.1 - - [19/Apr/2026 21:22:23] "POST /whatsapp HTTP/1.1" 200 -
+2026-04-19 21:22:46,066 - INFO - WhatsApp msg from whatsapp:+919330207443: trainer fees?
+2026-04-19 21:22:46,321 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-19 21:22:46,322 - INFO - 127.0.0.1 - - [19/Apr/2026 21:22:46] "POST /whatsapp HTTP/1.1" 200 -
+2026-04-19 21:23:43,669 - INFO -  * Detected change in 'C:\\Users\\dell\\Desktop\\AI Work\\AI Chatbot\\backend\\services\\llm_service.py', reloading
+2026-04-19 21:23:43,806 - INFO -  * Restarting with stat
+2026-04-19 21:23:45,432 - WARNING -  * Debugger is active!
+2026-04-19 21:23:45,437 - INFO -  * Debugger PIN: 124-071-146
+2026-04-19 21:24:17,243 - INFO - WhatsApp msg from whatsapp:+919330207443: hi.
+2026-04-19 21:24:17,963 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-19 21:24:18,008 - INFO - 127.0.0.1 - - [19/Apr/2026 21:24:18] "POST /whatsapp HTTP/1.1" 200 -
+2026-04-19 21:24:43,690 - INFO - WhatsApp msg from whatsapp:+919330207443: hi.
+2026-04-19 21:24:43,971 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-19 21:24:43,974 - INFO - 127.0.0.1 - - [19/Apr/2026 21:24:43] "POST /whatsapp HTTP/1.1" 200 -
+2026-04-19 21:25:07,317 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-19 21:25:07,317 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-19 21:25:07,318 - INFO -  * Restarting with stat
+2026-04-19 21:25:09,222 - WARNING -  * Debugger is active!
+2026-04-19 21:25:09,228 - INFO -  * Debugger PIN: 124-071-146
+2026-04-19 21:25:12,456 - INFO - WhatsApp msg from whatsapp:+919330207443: hi.
+2026-04-19 21:25:13,158 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-19 21:25:13,217 - INFO - 127.0.0.1 - - [19/Apr/2026 21:25:13] "POST /whatsapp HTTP/1.1" 200 -
+2026-04-19 21:25:27,822 - INFO - WhatsApp msg from whatsapp:+919330207443: price?
+2026-04-19 21:25:28,052 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-19 21:25:28,055 - INFO - 127.0.0.1 - - [19/Apr/2026 21:25:28] "POST /whatsapp HTTP/1.1" 200 -
+2026-04-19 21:25:41,565 - INFO - WhatsApp msg from whatsapp:+919330207443: day pass?
+2026-04-19 21:25:41,824 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-19 21:25:41,826 - INFO - 127.0.0.1 - - [19/Apr/2026 21:25:41] "POST /whatsapp HTTP/1.1" 200 -
+2026-04-19 21:31:38,991 - INFO - WhatsApp msg from whatsapp:+919330207443: wait. i'm contacting you later.
+2026-04-19 21:31:38,991 - INFO - 127.0.0.1 - - [19/Apr/2026 21:31:38] "POST /whatsapp HTTP/1.1" 200 -
+2026-04-19 21:32:28,261 - INFO -  * Detected change in 'C:\\Users\\dell\\Desktop\\AI Work\\AI Chatbot\\backend\\app.py', reloading
+2026-04-19 21:32:28,447 - INFO -  * Restarting with stat
+2026-04-19 21:46:20,470 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:10000
+ * Running on http://192.168.0.2:10000
+2026-04-19 21:46:20,472 - INFO - [33mPress CTRL+C to quit[0m
