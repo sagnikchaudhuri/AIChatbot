@@ -1,4 +1,4 @@
-# AI Business Chatbot (Groq Powered)
+# AI Whatsapp Business Chatbot for Gyms (Groq Powered)
 
 ## Setup
 
