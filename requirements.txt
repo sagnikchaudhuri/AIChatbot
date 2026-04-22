@@ -35,3 +35,7 @@ urllib3==2.6.3
 Werkzeug==3.1.8
 yarl==1.23.0
 gunicorn
+Flask
+twilio
+groq
+python-dotenv
