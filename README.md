@@ -23,3 +23,5 @@ Send:
 - Normal questions → bot replies
 - "I want to join" → lead capture triggered
 - "Name, Phone" → saved in DB
+
+<img width="1080" height="1824" alt="24096" src="https://github.com/user-attachments/assets/38bba2fa-7b7e-4849-922f-60080f0e428d" />
